@@ -17,7 +17,7 @@ keep_files:
 title: Fundación Caminando con Débora
 subtitle: "Persiguiendo el sueño de un centro de día para personas con discapacidad."
 url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
-baseurl: "https://jujuyfundacion.github.io/caminandocondebora/" # Set this value to "" if you want your site to be root
+baseurl: "https://jujuyfundacion.github.io/caminandocondebora" # Set this value to "" if you want your site to be root
 #baseurl: "/airspace-jekyll"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
